@@ -1,16 +1,15 @@
-Hi 👋 My name is Fernando Rhenals
+Hi 👋, I'm Fernando Rhenals,
 =================================
 
-Systems Engineer
+a Systems Engineer,
 ----------------
 
-Junior developer in constant learning, looking for job opportunities. Basic knowledge in Java, .Net, Python, C++, PHP and MYSQL database.
-
+a Junior Developer constantly learning and seeking job opportunities. I have basic knowledge in Java, C++, PHP, and SQL databases.
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [Some of my work...](http://github.com/iFerch0)
-* ✉️  You can contact me at [rhenalsf@gmail.com](mailto:rhenalsf@gmail.com)
-* 🧠  I'm learning Applications development
-* 🤝  I'm open to collaborating on any project
+* 🖥️  🖥️ Check out my portfolio (http://github.com/iFerch0)
+* ✉️  Feel free to reach me at [rhenalsf@gmail.com](mailto:rhenalsf@gmail.com)
+* 🧠  I'm currently learning application development
+* 🤝  I'm open to collaborating on any project.
 
 ### Skills
 
